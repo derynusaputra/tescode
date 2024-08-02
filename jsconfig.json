@@ -1,0 +1,10 @@
+{
+  // ... other configs, if any
+  "compilerOptions": {
+    // ... other configs, if any
+    "baseUrl": ".",
+    "paths": {
+      "@app/*": ["app/*"]
+    }
+  }
+}
