@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.sportipay.almusyarrofah"
+    namespace "com.sportipay.derybadr"
     defaultConfig {
-        applicationId "com.sportipay.almusyarrofah"
+        applicationId "com.sportipay.derybadr"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

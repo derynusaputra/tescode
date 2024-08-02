@@ -1,4 +1,4 @@
-package com.sportipay.almusyarrofah;
+package com.sportipay.derybadr;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

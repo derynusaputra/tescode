@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* AlMusyarrofahTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* AlMusyarrofahTests.m */; };
+		00E356F31AD99517003FC87E /* DeryBadrTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* DeryBadrTests.m */; };
 		0F5F350242C6483A985D6400 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ED48F5B02CFE482EB741D1ED /* Poppins-Bold.ttf */; };
 		11ABC71180304624972533A2 /* Poppins-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E717DA6A725E48BF9F24AF95 /* Poppins-MediumItalic.ttf */; };
 		127D281268C744918EC831E9 /* Poppins-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 92DD6B6B9BC64EDE8BCAC26D /* Poppins-Italic.ttf */; };
@@ -20,7 +20,7 @@
 		28D6338892BD4B689061638D /* Poppins-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F3F9B58C94D298E4A44B9 /* Poppins-ExtraLightItalic.ttf */; };
 		2E95C74F21AA4566AF8038C6 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5AFF5E492CEE4637B396120F /* Poppins-Regular.ttf */; };
 		33C96954E743465FB1CB48F6 /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4EDA925BC4744FF4A776BCC9 /* Poppins-Black.ttf */; };
-		73824E74E7F990007E37040C /* libPods-AlMusyarrofah.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 95CB9E47043DE3A78F791D05 /* libPods-AlMusyarrofah.a */; };
+		73824E74E7F990007E37040C /* libPods-DeryBadr.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 95CB9E47043DE3A78F791D05 /* libPods-DeryBadr.a */; };
 		749B8514BC53495DBE5B063F /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70632F9A69E146D4B16D60EA /* Poppins-Thin.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		A51A52A031A34AB1B9D90DAC /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7F45C4204C2946358CF03178 /* Poppins-ExtraBold.ttf */; };
@@ -31,7 +31,7 @@
 		D705DAB35C614E03A02FE547 /* Poppins-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5E46D5FD009A48A588A8F764 /* Poppins-BoldItalic.ttf */; };
 		DD81293231C548BD8B522BDE /* Poppins-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F7830183247A4B75AE395CBE /* Poppins-ThinItalic.ttf */; };
 		F5C03321BB0A451085F9D76A /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A4D5E8D4E90F472BB83C3A9B /* Poppins-Medium.ttf */; };
-		FA039A4192B53035A0E901D4 /* libPods-AlMusyarrofah-AlMusyarrofahTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B8D75FDDC5DA90592E14217C /* libPods-AlMusyarrofah-AlMusyarrofahTests.a */; };
+		FA039A4192B53035A0E901D4 /* libPods-DeryBadr-DeryBadrTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B8D75FDDC5DA90592E14217C /* libPods-DeryBadr-DeryBadrTests.a */; };
 		FB84675F37F14710B57FBA6A /* Poppins-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7951F969A08C46DFB577A1C6 /* Poppins-ExtraLight.ttf */; };
 /* End PBXBuildFile section */
 
@@ -41,27 +41,27 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = AlMusyarrofah;
+			remoteInfo = DeryBadr;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* AlMusyarrofahTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AlMusyarrofahTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* DeryBadrTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DeryBadrTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* AlMusyarrofahTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AlMusyarrofahTests.m; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* AlMusyarrofah.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlMusyarrofah.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = AlMusyarrofah/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = AlMusyarrofah/AppDelegate.mm; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = AlMusyarrofah/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = AlMusyarrofah/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = AlMusyarrofah/main.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* DeryBadrTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DeryBadrTests.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* DeryBadr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeryBadr.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = DeryBadr/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = DeryBadr/AppDelegate.mm; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = DeryBadr/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = DeryBadr/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = DeryBadr/main.m; sourceTree = "<group>"; };
 		18E07CF12AC45DA4007FAC46 /* Fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Fonts; sourceTree = "<group>"; };
-		21FB1476365189C0702590D1 /* Pods-AlMusyarrofah.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AlMusyarrofah.release.xcconfig"; path = "Target Support Files/Pods-AlMusyarrofah/Pods-AlMusyarrofah.release.xcconfig"; sourceTree = "<group>"; };
+		21FB1476365189C0702590D1 /* Pods-DeryBadr.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DeryBadr.release.xcconfig"; path = "Target Support Files/Pods-DeryBadr/Pods-DeryBadr.release.xcconfig"; sourceTree = "<group>"; };
 		3D85CD6978D349E9968E537B /* Poppins-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-LightItalic.ttf"; path = "../app/assets/fonts/Poppins-LightItalic.ttf"; sourceTree = "<group>"; };
-		46BF4F6A94579FDB4E3F38D2 /* Pods-AlMusyarrofah.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AlMusyarrofah.debug.xcconfig"; path = "Target Support Files/Pods-AlMusyarrofah/Pods-AlMusyarrofah.debug.xcconfig"; sourceTree = "<group>"; };
+		46BF4F6A94579FDB4E3F38D2 /* Pods-DeryBadr.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DeryBadr.debug.xcconfig"; path = "Target Support Files/Pods-DeryBadr/Pods-DeryBadr.debug.xcconfig"; sourceTree = "<group>"; };
 		4EDA925BC4744FF4A776BCC9 /* Poppins-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Black.ttf"; path = "../app/assets/fonts/Poppins-Black.ttf"; sourceTree = "<group>"; };
 		5AFF5E492CEE4637B396120F /* Poppins-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Regular.ttf"; path = "../app/assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
-		5B8DF19C57D854E87988F826 /* Pods-AlMusyarrofah-AlMusyarrofahTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AlMusyarrofah-AlMusyarrofahTests.debug.xcconfig"; path = "Target Support Files/Pods-AlMusyarrofah-AlMusyarrofahTests/Pods-AlMusyarrofah-AlMusyarrofahTests.debug.xcconfig"; sourceTree = "<group>"; };
+		5B8DF19C57D854E87988F826 /* Pods-DeryBadr-DeryBadrTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DeryBadr-DeryBadrTests.debug.xcconfig"; path = "Target Support Files/Pods-DeryBadr-DeryBadrTests/Pods-DeryBadr-DeryBadrTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5E46D5FD009A48A588A8F764 /* Poppins-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-BoldItalic.ttf"; path = "../app/assets/fonts/Poppins-BoldItalic.ttf"; sourceTree = "<group>"; };
 		70632F9A69E146D4B16D60EA /* Poppins-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Thin.ttf"; path = "../app/assets/fonts/Poppins-Thin.ttf"; sourceTree = "<group>"; };
 		7951F969A08C46DFB577A1C6 /* Poppins-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraLight.ttf"; path = "../app/assets/fonts/Poppins-ExtraLight.ttf"; sourceTree = "<group>"; };
@@ -69,13 +69,13 @@
 		7F3965757354424987A2440E /* Poppins-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraBoldItalic.ttf"; path = "../app/assets/fonts/Poppins-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
 		7F45C4204C2946358CF03178 /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraBold.ttf"; path = "../app/assets/fonts/Poppins-ExtraBold.ttf"; sourceTree = "<group>"; };
 		7F9F3F9B58C94D298E4A44B9 /* Poppins-ExtraLightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraLightItalic.ttf"; path = "../app/assets/fonts/Poppins-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = AlMusyarrofah/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = DeryBadr/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92DD6B6B9BC64EDE8BCAC26D /* Poppins-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Italic.ttf"; path = "../app/assets/fonts/Poppins-Italic.ttf"; sourceTree = "<group>"; };
-		95CB9E47043DE3A78F791D05 /* libPods-AlMusyarrofah.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AlMusyarrofah.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		95CB9E47043DE3A78F791D05 /* libPods-DeryBadr.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DeryBadr.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2331840C6034F7CA64CC837 /* Poppins-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-BlackItalic.ttf"; path = "../app/assets/fonts/Poppins-BlackItalic.ttf"; sourceTree = "<group>"; };
 		A4D5E8D4E90F472BB83C3A9B /* Poppins-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Medium.ttf"; path = "../app/assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; };
-		B8D75FDDC5DA90592E14217C /* libPods-AlMusyarrofah-AlMusyarrofahTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AlMusyarrofah-AlMusyarrofahTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BA0BDAC45EF17693946773A6 /* Pods-AlMusyarrofah-AlMusyarrofahTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AlMusyarrofah-AlMusyarrofahTests.release.xcconfig"; path = "Target Support Files/Pods-AlMusyarrofah-AlMusyarrofahTests/Pods-AlMusyarrofah-AlMusyarrofahTests.release.xcconfig"; sourceTree = "<group>"; };
+		B8D75FDDC5DA90592E14217C /* libPods-DeryBadr-DeryBadrTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DeryBadr-DeryBadrTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA0BDAC45EF17693946773A6 /* Pods-DeryBadr-DeryBadrTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DeryBadr-DeryBadrTests.release.xcconfig"; path = "Target Support Files/Pods-DeryBadr-DeryBadrTests/Pods-DeryBadr-DeryBadrTests.release.xcconfig"; sourceTree = "<group>"; };
 		C4BF77806CEE45D493853CA9 /* Poppins-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Light.ttf"; path = "../app/assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; };
 		E717DA6A725E48BF9F24AF95 /* Poppins-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-MediumItalic.ttf"; path = "../app/assets/fonts/Poppins-MediumItalic.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
@@ -89,7 +89,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA039A4192B53035A0E901D4 /* libPods-AlMusyarrofah-AlMusyarrofahTests.a in Frameworks */,
+				FA039A4192B53035A0E901D4 /* libPods-DeryBadr-DeryBadrTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -97,20 +97,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				73824E74E7F990007E37040C /* libPods-AlMusyarrofah.a in Frameworks */,
+				73824E74E7F990007E37040C /* libPods-DeryBadr.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* AlMusyarrofahTests */ = {
+		00E356EF1AD99517003FC87E /* DeryBadrTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* AlMusyarrofahTests.m */,
+				00E356F21AD99517003FC87E /* DeryBadrTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = AlMusyarrofahTests;
+			path = DeryBadrTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -121,7 +121,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* AlMusyarrofah */ = {
+		13B07FAE1A68108700A75B9A /* DeryBadr */ = {
 			isa = PBXGroup;
 			children = (
 				18E07CF12AC45DA4007FAC46 /* Fonts */,
@@ -132,15 +132,15 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = AlMusyarrofah;
+			name = DeryBadr;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				95CB9E47043DE3A78F791D05 /* libPods-AlMusyarrofah.a */,
-				B8D75FDDC5DA90592E14217C /* libPods-AlMusyarrofah-AlMusyarrofahTests.a */,
+				95CB9E47043DE3A78F791D05 /* libPods-DeryBadr.a */,
+				B8D75FDDC5DA90592E14217C /* libPods-DeryBadr-DeryBadrTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -180,9 +180,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* AlMusyarrofah */,
+				13B07FAE1A68108700A75B9A /* DeryBadr */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* AlMusyarrofahTests */,
+				00E356EF1AD99517003FC87E /* DeryBadrTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
@@ -196,8 +196,8 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* AlMusyarrofah.app */,
-				00E356EE1AD99517003FC87E /* AlMusyarrofahTests.xctest */,
+				13B07F961A680F5B00A75B9A /* DeryBadr.app */,
+				00E356EE1AD99517003FC87E /* DeryBadrTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -205,10 +205,10 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				46BF4F6A94579FDB4E3F38D2 /* Pods-AlMusyarrofah.debug.xcconfig */,
-				21FB1476365189C0702590D1 /* Pods-AlMusyarrofah.release.xcconfig */,
-				5B8DF19C57D854E87988F826 /* Pods-AlMusyarrofah-AlMusyarrofahTests.debug.xcconfig */,
-				BA0BDAC45EF17693946773A6 /* Pods-AlMusyarrofah-AlMusyarrofahTests.release.xcconfig */,
+				46BF4F6A94579FDB4E3F38D2 /* Pods-DeryBadr.debug.xcconfig */,
+				21FB1476365189C0702590D1 /* Pods-DeryBadr.release.xcconfig */,
+				5B8DF19C57D854E87988F826 /* Pods-DeryBadr-DeryBadrTests.debug.xcconfig */,
+				BA0BDAC45EF17693946773A6 /* Pods-DeryBadr-DeryBadrTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -216,9 +216,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* AlMusyarrofahTests */ = {
+		00E356ED1AD99517003FC87E /* DeryBadrTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "AlMusyarrofahTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "DeryBadrTests" */;
 			buildPhases = (
 				2BD8951AC88A32991D9AF611 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -232,14 +232,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = AlMusyarrofahTests;
-			productName = AlMusyarrofahTests;
-			productReference = 00E356EE1AD99517003FC87E /* AlMusyarrofahTests.xctest */;
+			name = DeryBadrTests;
+			productName = DeryBadrTests;
+			productReference = 00E356EE1AD99517003FC87E /* DeryBadrTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* AlMusyarrofah */ = {
+		13B07F861A680F5B00A75B9A /* DeryBadr */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "AlMusyarrofah" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "DeryBadr" */;
 			buildPhases = (
 				59954EBF72D4759927911ABA /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -254,9 +254,9 @@
 			);
 			dependencies = (
 			);
-			name = AlMusyarrofah;
-			productName = AlMusyarrofah;
-			productReference = 13B07F961A680F5B00A75B9A /* AlMusyarrofah.app */;
+			name = DeryBadr;
+			productName = DeryBadr;
+			productReference = 13B07F961A680F5B00A75B9A /* DeryBadr.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -276,7 +276,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "AlMusyarrofah" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "DeryBadr" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -289,8 +289,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* AlMusyarrofah */,
-				00E356ED1AD99517003FC87E /* AlMusyarrofahTests */,
+				13B07F861A680F5B00A75B9A /* DeryBadr */,
+				00E356ED1AD99517003FC87E /* DeryBadrTests */,
 			);
 		};
 /* End PBXProject section */
@@ -356,15 +356,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AlMusyarrofah/Pods-AlMusyarrofah-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-DeryBadr/Pods-DeryBadr-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AlMusyarrofah/Pods-AlMusyarrofah-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-DeryBadr/Pods-DeryBadr-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AlMusyarrofah/Pods-AlMusyarrofah-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DeryBadr/Pods-DeryBadr-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		26DEA2B1CD5C330C07DD457B /* [CP] Embed Pods Frameworks */ = {
@@ -373,15 +373,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AlMusyarrofah-AlMusyarrofahTests/Pods-AlMusyarrofah-AlMusyarrofahTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-DeryBadr-DeryBadrTests/Pods-DeryBadr-DeryBadrTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AlMusyarrofah-AlMusyarrofahTests/Pods-AlMusyarrofah-AlMusyarrofahTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-DeryBadr-DeryBadrTests/Pods-DeryBadr-DeryBadrTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AlMusyarrofah-AlMusyarrofahTests/Pods-AlMusyarrofah-AlMusyarrofahTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DeryBadr-DeryBadrTests/Pods-DeryBadr-DeryBadrTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		2BD8951AC88A32991D9AF611 /* [CP] Check Pods Manifest.lock */ = {
@@ -399,7 +399,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-AlMusyarrofah-AlMusyarrofahTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-DeryBadr-DeryBadrTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -421,7 +421,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-AlMusyarrofah-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-DeryBadr-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -434,15 +434,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AlMusyarrofah/Pods-AlMusyarrofah-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-DeryBadr/Pods-DeryBadr-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AlMusyarrofah/Pods-AlMusyarrofah-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-DeryBadr/Pods-DeryBadr-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AlMusyarrofah/Pods-AlMusyarrofah-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DeryBadr/Pods-DeryBadr-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -470,15 +470,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AlMusyarrofah-AlMusyarrofahTests/Pods-AlMusyarrofah-AlMusyarrofahTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-DeryBadr-DeryBadrTests/Pods-DeryBadr-DeryBadrTests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AlMusyarrofah-AlMusyarrofahTests/Pods-AlMusyarrofah-AlMusyarrofahTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-DeryBadr-DeryBadrTests/Pods-DeryBadr-DeryBadrTests-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AlMusyarrofah-AlMusyarrofahTests/Pods-AlMusyarrofah-AlMusyarrofahTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DeryBadr-DeryBadrTests/Pods-DeryBadr-DeryBadrTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -488,7 +488,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* AlMusyarrofahTests.m in Sources */,
+				00E356F31AD99517003FC87E /* DeryBadrTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -506,7 +506,7 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* AlMusyarrofah */;
+			target = 13B07F861A680F5B00A75B9A /* DeryBadr */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -514,14 +514,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5B8DF19C57D854E87988F826 /* Pods-AlMusyarrofah-AlMusyarrofahTests.debug.xcconfig */;
+			baseConfigurationReference = 5B8DF19C57D854E87988F826 /* Pods-DeryBadr-DeryBadrTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = AlMusyarrofahTests/Info.plist;
+				INFOPLIST_FILE = DeryBadrTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -533,19 +533,19 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.sportipay.almusyarrofah;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sportipay.derybadr;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AlMusyarrofah.app/AlMusyarrofah";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DeryBadr.app/DeryBadr";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BA0BDAC45EF17693946773A6 /* Pods-AlMusyarrofah-AlMusyarrofahTests.release.xcconfig */;
+			baseConfigurationReference = BA0BDAC45EF17693946773A6 /* Pods-DeryBadr-DeryBadrTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = AlMusyarrofahTests/Info.plist;
+				INFOPLIST_FILE = DeryBadrTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -557,22 +557,22 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.sportipay.almusyarrofah;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sportipay.derybadr;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AlMusyarrofah.app/AlMusyarrofah";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DeryBadr.app/DeryBadr";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46BF4F6A94579FDB4E3F38D2 /* Pods-AlMusyarrofah.debug.xcconfig */;
+			baseConfigurationReference = 46BF4F6A94579FDB4E3F38D2 /* Pods-DeryBadr.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = AlMusyarrofah/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Al Musyarrofah";
+				INFOPLIST_FILE = DeryBadr/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Dery Badr";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -583,8 +583,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.sportipay.almusyarrofah;
-				PRODUCT_NAME = AlMusyarrofah;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sportipay.derybadr;
+				PRODUCT_NAME = DeryBadr;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -593,13 +593,13 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 21FB1476365189C0702590D1 /* Pods-AlMusyarrofah.release.xcconfig */;
+			baseConfigurationReference = 21FB1476365189C0702590D1 /* Pods-DeryBadr.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = AlMusyarrofah/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Al Musyarrofah";
+				INFOPLIST_FILE = DeryBadr/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Dery Badr";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -610,8 +610,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.sportipay.almusyarrofah;
-				PRODUCT_NAME = AlMusyarrofah;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sportipay.derybadr;
+				PRODUCT_NAME = DeryBadr;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -759,7 +759,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "AlMusyarrofahTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "DeryBadrTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -768,7 +768,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "AlMusyarrofah" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "DeryBadr" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -777,7 +777,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "AlMusyarrofah" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "DeryBadr" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
